@@ -11,7 +11,7 @@ setup(
     version=version,
     author=author,
     author_email='ayuda@mercadolibre.com.mx',
-    url='https://github.com/mercadolibre/python-sdk',
+    url='https://github.com/tingsystems/python-sdk',
     description='This is the official Python SDK for MercadoLibre Platform.',
     long_description=open('./README.txt', 'r').read(),
     download_url='https://github.com/mercadolibre/python-sdk',
