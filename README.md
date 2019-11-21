@@ -6,6 +6,8 @@ This is the official Python SDK for MercadoLibre's Platform.
 
        clone repository
        https://github.com/mercadolibre/python-sdk.git
+       Or
+       pip install -e git://github.com/tingsystems/python-sdk@master#egg=meli
 
 ## How do I use it?
 
